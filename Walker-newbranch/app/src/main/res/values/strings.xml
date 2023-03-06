@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Walker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="distancia">Distance</string>
+    <string name="steps">Steps</string>
+    <string name="time">Time</string>
+    <string name="meanSpeed">Mean speed</string>
+    <string name="iniciar">Start</string>
+    <string name="pausar">Pause</string>
+    <string name="retomar">Resume</string>
+    <string name="terminar">Finish</string>
+    <string name="terminou">Finished</string>
+    <string name="config">Configurations</string>
+    <string name="mapa">Route Map</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="definir">Define</string>
+    <string name="messageGPS">It is necessary to use GPS location in this application at all times. Click \"Ok\" to change the settings of the application so that it works properly.</string>
+    <string name="localDenied">Location denied</string>
+    <string name="serviceInterrupted">Service interrupted after 30 minutes without significant displacement or distance reached.</string>
+    <string name="serviceInterruptedTitle">Service interrupted</string>
+    <string name="saveTRack">Save Track</string>
+    <string name="savedTRacks">Saved tracks</string>
+    <string name="sound">Warning sound</string>
+    <string name="sensibility">High sensit. GPS</string>
+    <string name="trackIncluded">Track included in history.</string>
+    <string name="medidaAtivada">Metering enabled.</string>
+    <string name="sharingPrepare">Preparing for sharing.</string>
+    <string name="sharing">Sharing</string>
+    <string name="monitoring">Monitoring of active walking.</string>
+    <string name="alcancou">Reached</string>
+    <string name="noItem">No items selected.</string>
+    <string name="delete">Delete permanently</string>
+    <string name="delete2">Delete</string>
+    <string name="avisoGPSTitulo">Use location</string>
+    <string name="avisoGPS">Location will be used when the app is closed or in the background for distance calculation.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="tracks">tracks</string>
+    <string name="politica">Privacy Policy</string>
+    <string name="turnoff">Turn off on (Meters)</string>
+    <string name="turnoff2">Turn off on distance</string>
+
+
+
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Walker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="distancia">Distância</string>
+    <string name="steps">Passos</string>
+    <string name="time">Tempo</string>
+    <string name="meanSpeed">Veloc. média</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="pausar">Pausar</string>
+    <string name="retomar">Retomar</string>
+    <string name="terminar">Terminar</string>
+    <string name="terminou">Terminou</string>
+    <string name="config">Configurações</string>
+    <string name="mapa">Mapa do Percurso</string>
+    <string name="weight">Peso (Kg)</string>
+    <string name="height">Altura (Cm)</string>
+    <string name="definir">Definir</string>
+    <string name="messageGPS">É necessário o uso da localização por GPS neste aplicativo o tempo todo. Clique \"Ok\" para mudar as configurações do aplicativo para que o mesmo funcione adequadamente.</string>
+    <string name="localDenied">Localização negada</string>
+    <string name="serviceInterrupted">Serviço interrompido após 30 minutos sem deslocamento significativo ou distância alcançada.</string>
+    <string name="serviceInterruptedTitle">Serviço interrompido</string>
+    <string name="saveTRack">Salvar Trilha</string>
+    <string name="savedTRacks">Trilhas Salvas</string>
+    <string name="sound">Aviso sonoro</string>
+    <string name="sensibility">GPS alta sensib.</string>
+    <string name="trackIncluded">Trilha incluída no histórico.</string>
+    <string name="medidaAtivada">Medição ativada.</string>
+    <string name="sharingPrepare">Preparando compartilhamento.</string>
+    <string name="sharing">Compartilhar</string>
+    <string name="monitoring">Acompanhamento da caminhada ativo.</string>
+    <string name="alcancou">Alcançou</string>
+    <string name="noItem">Nenhum item selecionado.</string>
+    <string name="delete">Apagar definitivamente</string>
+    <string name="delete2">Apagar</string>
+    <string name="avisoGPSTitulo">Usar localização</string>
+    <string name="avisoGPS">Será usada localização quando o app estiver fechado ou em segundo plano para cálculo de distância.</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="tracks">trilhas</string>
+    <string name="politica">Política Privacidade</string>
+    <string name="turnoff">Desligar em (Metros)</string>
+    <string name="turnoff2">Desligar na distância</string>
+
+</resources>
